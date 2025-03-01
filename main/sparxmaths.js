@@ -2,7 +2,7 @@ const BASE_URL = 'https://vipe.varunaditya.xyz';
 let cardCounter = 0;
 let cardData = {};
 let studentName;
-let API_KEY = "XXXXXXXXXXXXX-XXXXXXXXX-XXXXXX" // REPLACE WITH YOUR OWN
+let API_KEY = "AIzaSyC5blpOQlqfKo93EOcNPmJHZAkul8Tf9nQ" // REPLACE WITH YOUR OWN
 
 const script = document.createElement('script');
 script.src = chrome.runtime.getURL('helpers/h2c.js');
